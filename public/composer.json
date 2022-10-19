@@ -1,0 +1,15 @@
+{
+    "name": "joffo/public",
+    "autoload": {
+        "psr-4": {
+            "Joffo\\Public\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "BONZOM Julien",
+            "email": "bonzomj@gmail.com"
+        }
+    ],
+    "require": {}
+}
